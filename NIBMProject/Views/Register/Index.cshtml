@@ -1,0 +1,67 @@
+﻿@using BootstrapSupport
+
+@model NIBMProject.Models.Register
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_BootstrapLayout.basic.cshtml";
+    @System.Web.Optimization.Styles.Render("~/Content/style.css")
+}
+
+
+<div class="register">
+    <div class="well well-small">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+
+            <fieldset>
+                <legend>Register</legend>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.UserName)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.UserName)
+                    @Html.ValidationMessageFor(model => model.UserName)
+                </div>
+
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.Password)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.Password)
+                    @Html.ValidationMessageFor(model => model.Password)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.MyProperty)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.MyProperty)
+                    @Html.ValidationMessageFor(model => model.MyProperty)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.Email)
+                </div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.Email)
+                    @Html.ValidationMessageFor(model => model.Email)
+                </div>
+
+                <p>
+                    <input type="submit" class="btn btn-primary" value="Submit" />
+                </p>
+            </fieldset>
+        }
+        <div>
+        </div>
+
+
+
+    @Html.ActionLink("Back to List", "Index")
+</div>
+</div>
+

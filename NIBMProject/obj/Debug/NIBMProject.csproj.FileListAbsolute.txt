@@ -1,0 +1,128 @@
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\NIBMProject.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\NIBMProject.pdb
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\Antlr3.Runtime.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\EntityFramework.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\Microsoft.Web.Mvc.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\Newtonsoft.Json.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Net.Http.Formatting.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Helpers.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Http.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Http.WebHost.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Mvc.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Optimization.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Razor.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.Deployment.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.Razor.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\WebGrease.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\EntityFramework.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\Newtonsoft.Json.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Net.Http.Formatting.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Helpers.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Http.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Http.WebHost.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Mvc.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.Razor.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.Deployment.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\bin\System.Web.WebPages.Razor.xml
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\obj\Debug\NIBMProject.dll
+c:\users\amila\documents\visual studio 2012\Projects\boostrap1\boostrap1\obj\Debug\NIBMProject.pdb
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\NIBMProject.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\NIBMProject.pdb
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\Antlr3.Runtime.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\EntityFramework.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\Microsoft.Web.Mvc.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\Newtonsoft.Json.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Helpers.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Http.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Mvc.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Optimization.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Razor.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\WebGrease.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\EntityFramework.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\Newtonsoft.Json.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Helpers.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Http.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Mvc.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.Razor.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\obj\Debug\NIBMProject.csprojResolveAssemblyReference.cache
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\obj\Debug\NIBMProject.dll
+C:\Users\amila\Documents\Visual Studio 2012\Projects\NIBMProject\NIBMProject\obj\Debug\NIBMProject.pdb
+D:\movies\NIBMProject\NIBMProject\bin\NIBMProject.dll
+D:\movies\NIBMProject\NIBMProject\bin\NIBMProject.pdb
+D:\movies\NIBMProject\NIBMProject\bin\Antlr3.Runtime.dll
+D:\movies\NIBMProject\NIBMProject\bin\EntityFramework.dll
+D:\movies\NIBMProject\NIBMProject\bin\Microsoft.Web.Infrastructure.dll
+D:\movies\NIBMProject\NIBMProject\bin\Microsoft.Web.Mvc.dll
+D:\movies\NIBMProject\NIBMProject\bin\Newtonsoft.Json.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Helpers.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Http.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Mvc.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Optimization.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Razor.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.dll
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.dll
+D:\movies\NIBMProject\NIBMProject\bin\WebGrease.dll
+D:\movies\NIBMProject\NIBMProject\bin\EntityFramework.xml
+D:\movies\NIBMProject\NIBMProject\bin\Newtonsoft.Json.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Helpers.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Http.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Mvc.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.Razor.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.xml
+D:\movies\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.xml
+D:\movies\NIBMProject\NIBMProject\obj\Debug\NIBMProject.csprojResolveAssemblyReference.cache
+D:\movies\NIBMProject\NIBMProject\obj\Debug\NIBMProject.dll
+D:\movies\NIBMProject\NIBMProject\obj\Debug\NIBMProject.pdb
+E:\NIBMProject\NIBMProject\bin\NIBMProject.dll.config
+E:\NIBMProject\NIBMProject\bin\NIBMProject.dll
+E:\NIBMProject\NIBMProject\bin\NIBMProject.pdb
+E:\NIBMProject\NIBMProject\bin\Antlr3.Runtime.dll
+E:\NIBMProject\NIBMProject\bin\EntityFramework.dll
+E:\NIBMProject\NIBMProject\bin\Microsoft.Web.Infrastructure.dll
+E:\NIBMProject\NIBMProject\bin\Microsoft.Web.Mvc.dll
+E:\NIBMProject\NIBMProject\bin\Newtonsoft.Json.dll
+E:\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Helpers.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Http.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Mvc.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Optimization.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.Razor.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.dll
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.dll
+E:\NIBMProject\NIBMProject\bin\WebGrease.dll
+E:\NIBMProject\NIBMProject\bin\EntityFramework.xml
+E:\NIBMProject\NIBMProject\bin\Newtonsoft.Json.xml
+E:\NIBMProject\NIBMProject\bin\System.Net.Http.Formatting.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.Helpers.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.Http.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.Http.WebHost.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.Mvc.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.Razor.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.Deployment.xml
+E:\NIBMProject\NIBMProject\bin\System.Web.WebPages.Razor.xml
+E:\NIBMProject\NIBMProject\obj\Debug\NIBMProject.csprojResolveAssemblyReference.cache
+E:\NIBMProject\NIBMProject\obj\Debug\NIBMProject.dll
+E:\NIBMProject\NIBMProject\obj\Debug\NIBMProject.pdb

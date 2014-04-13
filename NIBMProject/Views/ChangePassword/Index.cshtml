@@ -1,0 +1,42 @@
+﻿@model NIBMProject.Models.ForgotPassword
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_BootstrapLayout.basic.cshtml";
+    @System.Web.Optimization.Styles.Render("~/Content/style.css")
+
+}
+<div class="sendemail">
+       
+    <p class=" paraemail">
+        Pleace enter the email address to send the password <br />
+        check your email
+    @using (Html.BeginForm()) {
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>ForgotPassword</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Email)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+
+            <p>
+                <input type="submit" value="Create" />
+            </p>
+        </fieldset>
+    }
+
+        <div>
+            @Html.ActionLink("Bcak to Login", "Index", "Login")
+        </div>
+   
+    </p>
+
+
+</div>
+ 

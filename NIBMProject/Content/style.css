@@ -1,0 +1,40 @@
+﻿body {
+
+}
+
+.sider {
+    width: 700px;
+    margin :0 auto;
+    height : 500px;
+    padding-bottom :5px;
+    margin-bottom :200px;
+
+}
+.titlehead {
+    text-align : center;
+    font-family :'Times New Roman';
+}
+.login {
+    width :450px;
+    margin :0 auto;
+  
+    margin-bottom :200px;
+}
+
+.register, .Patient {
+    width :500px;
+   margin :0 auto;
+    margin-bottom :200px;
+    
+}
+
+/*activation*/
+.sendemail {
+    width :300px;
+    margin-left : 180px;
+    margin-top : 70px;
+    margin-bottom :200px;
+}
+paraemail {
+    font-family :'Times New Roman';
+}

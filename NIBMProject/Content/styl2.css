@@ -1,0 +1,20 @@
+body {
+      margin-top : 0 auto;
+}
+header h1 a {
+	text-align: center;
+	padding-top: 60px;
+	text-transform: uppercase;
+	font-family: 'Noto Sans', serif;
+}
+body {
+	font-family: 'Noto Sans', serif;
+}
+footer {
+	background: #000;
+}
+
+footer small {
+	color: #fff;
+	text-align: center;
+}
